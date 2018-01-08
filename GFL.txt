@@ -1,0 +1,3 @@
+F_name Amp SNR StrSamp EndSamp Width - DM Beam Cand SampNum
+DM : 8
+SNR: 3
